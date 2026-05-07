@@ -1,32 +1,32 @@
-## Hi there 👋
+# Sara Esmaeili
 
-Robotics Software Engineer with a background in Electrical & Electronic Engineering.
+Electrical and Control Engineer focused on Robotics, ROS 2, Autonomous Navigation, AI, and Machine Learning.
 
----
-
-### 🔧 Current Work
-
-- TurtleBot3 simulation using ROS 2 & Gazebo  
-- Perception pipelines with OpenCV  
-- Vision → decision → motion integration  
-- SLAM & autonomous navigation (Nav2)
-  
----
-
-### 🧠 Background
-
-- Control systems for robotic manipulators  
-- FPGA-based implementations  
-- Nonlinear control (Sliding Mode, Fuzzy Logic)  
+Building autonomous robotics systems using:
+- ROS 2
+- Nav2
+- Gazebo
+- OpenCV
+- Python
+- PyTorch
+- TensorFlow
 
 ---
 
-### 🛠️ Tools
+## Engineering Interests
 
-ROS 2 | Gazebo | Python | OpenCV | Linux (WSL2) | Arduino TinyML
+- Autonomous Mobile Robots
+- Robot Perception
+- AI for Robotics
+- Industrial Automation
 
 ---
 
-### 🤝 Connect
+## Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/sara-esmaeili-/
+ROS 2 • Nav2 • Gazebo • OpenCV • Python • PyTorch • TensorFlow
+
+---
+
+GitHub:  
+https://github.com/Sara-Esm

@@ -50,7 +50,7 @@ Currently focused on:
 
 ### AI • Machine Learning • Computer Vision
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
 <br><br>
 

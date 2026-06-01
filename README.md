@@ -20,12 +20,8 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Esm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
-## 🤖 About Me
 
 Robotics Software Engineer bridging **control theory** and **modern robotics software**
-- 🤖 **autonomous mobile robots** with ROS 2, Nav2, and Gazebo
-- 👁️ Designing **perception systems** with OpenCV, ArUco, and computer vision
-- 🧮 Implementing **nonlinear control** (SMC, Fuzzy Logic) on real robotic systems
 
 <br clear="right"/>
 

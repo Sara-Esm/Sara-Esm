@@ -8,7 +8,6 @@
 
 <br>
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sara_Esmaeili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-esmaeili-)
 [![GitHub](https://img.shields.io/badge/GitHub-Sara--Esm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara-Esm)
 [![Email](https://img.shields.io/badge/Email-zesmaeili85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zesmaeili85@gmail.com)
@@ -18,10 +17,14 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Esm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+## 👩‍💻 About Me
 
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Esm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
 
 Robotics Software Engineer bridging **control theory** and **modern robotics software**
+- 🤖 Building **autonomous mobile robots** with ROS 2, Nav2 and Gazebo
+- 🧮 Implementing **nonlinear control** on robotic systems
+- 👁️ Designing **perception systems** with OpenCV, ArUco and computer vision
 
 <br clear="right"/>
 
@@ -66,7 +69,8 @@ Human drives freely via teleop; when a **colored fiducial marker** is detected, 
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%">
 
 ---
 
@@ -82,6 +86,8 @@ Human drives freely via teleop; when a **colored fiducial marker** is detected, 
 ![RViz2](https://img.shields.io/badge/RViz2-Visualization-1E90FF?style=for-the-badge)
 ![TurtleBot3](https://img.shields.io/badge/TurtleBot3-Mobile_Robot-E10000?style=for-the-badge)
 
+<br>
+
 **Control Theory & Engineering**
 
 ![SMC](https://img.shields.io/badge/Sliding_Mode_Control-7B2D8B?style=for-the-badge)
@@ -90,9 +96,13 @@ Human drives freely via teleop; when a **colored fiducial marker** is detected, 
 ![FPGA](https://img.shields.io/badge/FPGA-Digital_Design-6929C4?style=for-the-badge)
 ![PLC](https://img.shields.io/badge/PLC-Automation-00539C?style=for-the-badge)
 
+<br>
+
 **AI & Computer Vision**
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+
+<br>
 
 **Development & Infrastructure**
 

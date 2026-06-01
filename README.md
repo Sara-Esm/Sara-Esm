@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=ROS+2+%7C+Nav2+%7C+Autonomous+Navigation;Control+%7C+Visual+Servoing;Robot+Perception+%7C+OpenCV+%7C+ArUco;Gazebo+Simulation+%7C+SLAM+%7C+AMCL;From+Research+to+Real+Robotic+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=ROS+2+%7C+Nav2+%7C+Autonomous+Navigation;Sliding+Mode+Control+%7C+Visual+Servoing;Robot+Perception+%7C+OpenCV+%7C+ArUco;SLAM+%7C+AMCL+%7C+Path+Planning;Nonlinear+Control+%7C+Fuzzy+Logic+%7C+FPGA;Autonomous+Mobile+Robots+%7C+Vancouver+BC" />
 
 <br>
 
@@ -15,7 +15,7 @@
 
 ---
 
-Robotics Software Engineer bridging **control theory** and **modern robotics software**
+Robotics Software Engineer bridging **control theory** and **modern robotics software** — from published academic research to working autonomous systems.
 
 - 🤖 Building **autonomous mobile robots** with ROS 2, Nav2 and Gazebo
 - 🧮 Implementing **nonlinear control** on robotic systems

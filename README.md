@@ -19,14 +19,26 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Esm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+<table>
+<tr>
+<td>
 
-Robotics Software Engineer bridging **control theory** and **modern robotics software**
+Robotics Software Engineer bridging **control theory** and **modern robotics software** — from published academic research to working autonomous systems.
+
 - 🤖 Building **autonomous mobile robots** with ROS 2, Nav2 and Gazebo
-- 🧮 Implementing **nonlinear control** on robotic systems
+- 🧮 Implementing **nonlinear control** (SMC, Fuzzy Logic) on robotic systems
 - 👁️ Designing **perception systems** with OpenCV, ArUco and computer vision
+- 🎓 **Published research** in Sliding Mode Control and Fuzzy Logic
+- 📍 Based in **Vancouver, BC** — open to local robotics opportunities
 
-<br clear="right"/>
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Esm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,8 +81,7 @@ Human drives freely via teleop; when a **colored fiducial marker** is detected, 
 
 </td>
 </tr>
-<tr>
-<td width="50%">
+</table>
 
 ---
 

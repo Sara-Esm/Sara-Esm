@@ -78,14 +78,6 @@ Human drives freely via teleop; when a **colored fiducial marker** is detected, 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Sliding_Mode_Control-7B2D8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fuzzy_Logic-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/FPGA-Digital_Design-6929C4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PLC-Automation-00539C?style=for-the-badge"/>
-
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
 <br><br>

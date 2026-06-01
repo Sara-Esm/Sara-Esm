@@ -15,7 +15,7 @@
 
 ---
 
-Robotics Software Engineer bridging **control theory** and **modern robotics software** — from published academic research to working autonomous systems.
+Robotics Software Engineer bridging **control theory** and **modern robotics software** 
 
 - 🤖 Building **autonomous mobile robots** with ROS 2, Nav2 and Gazebo
 - 🧮 Implementing **nonlinear control** on robotic systems

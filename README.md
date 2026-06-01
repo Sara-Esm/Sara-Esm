@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=ROS+2+%7C+Nav2+%7C+Autonomous+Navigation;Sliding+Mode+Control+%7C+Visual+Servoing;Robot+Perception+%7C+OpenCV+%7C+ArUco;SLAM+%7C+AMCL+%7C+Path+Planning;Nonlinear+Control+%7C+Fuzzy+Logic+%7C+FPGA;Autonomous+Mobile+Robots+%7C+Vancouver+BC" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=ROS+2+%7C+Nav2+%7C+Autonomous+Navigation;Sliding+Mode+Control+%7C+Visual+Servoing;Robot+Perception+%7C+OpenCV+%7C+ArUco;SLAM+%7C+AMCL+%7C+Path+Planning;Nonlinear+Control" />
 
 <br>
 

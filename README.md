@@ -10,6 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sara_Esmaeili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-esmaeili-)
 [![GitHub](https://img.shields.io/badge/GitHub-Sara--Esm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara-Esm)
+[![Email](https://img.shields.io/badge/Email-zesmaeili85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zesmaeili85@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Vancouver-BC,_Canada-2ea44f?style=for-the-badge)](https://github.com/Sara-Esm)
 
 </div>
 
@@ -19,18 +21,20 @@
 
 <table>
 <tr>
-<td>
+<td valign="top" width="60%">
 
-Robotics Software Engineer bridging **control theory** and **modern robotics software**
+Robotics Software Engineer bridging **control theory** and **modern robotics software** — from published academic research to working autonomous systems.
 
 - 🤖 Building **autonomous mobile robots** with ROS 2, Nav2 and Gazebo
-- 🧮 Implementing **nonlinear control** on robotic systems
+- 🧮 Implementing **nonlinear control** (SMC, Fuzzy Logic) on robotic systems
 - 👁️ Designing **perception systems** with OpenCV, ArUco and computer vision
+- 🎓 **Published research** in Sliding Mode Control and Fuzzy Logic
+- 📍 Based in **Vancouver, BC** — open to local robotics opportunities
 
 </td>
-<td>
+<td valign="top" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Esm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="320"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Esm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="100%"/>
 
 </td>
 </tr>

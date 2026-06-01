@@ -70,52 +70,27 @@ Human drives freely via teleop; when a **colored fiducial marker** is detected, 
 
 <div align="center">
 
-**Robotics & Autonomous Systems**
+<img src="https://img.shields.io/badge/ROS_2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nav2-Autonomous_Navigation-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gazebo_11-Simulation-F58025?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RViz2-Visualization-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TurtleBot3-Mobile_Robot-E10000?style=for-the-badge"/>
 
-![ROS2](https://img.shields.io/badge/ROS_2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Nav2](https://img.shields.io/badge/Nav2-Autonomous_Navigation-2ea44f?style=for-the-badge)
-![Gazebo](https://img.shields.io/badge/Gazebo_11-Simulation-F58025?style=for-the-badge)
-![RViz2](https://img.shields.io/badge/RViz2-Visualization-1E90FF?style=for-the-badge)
-![TurtleBot3](https://img.shields.io/badge/TurtleBot3-Mobile_Robot-E10000?style=for-the-badge)
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/Sliding_Mode_Control-7B2D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fuzzy_Logic-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/FPGA-Digital_Design-6929C4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PLC-Automation-00539C?style=for-the-badge"/>
 
-**Control Theory & Engineering**
-
-![SMC](https://img.shields.io/badge/Sliding_Mode_Control-7B2D8B?style=for-the-badge)
-![Fuzzy](https://img.shields.io/badge/Fuzzy_Logic-FF6B35?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-Digital_Design-6929C4?style=for-the-badge)
-![PLC](https://img.shields.io/badge/PLC-Automation-00539C?style=for-the-badge)
-
-<br>
-
-**AI & Computer Vision**
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
-<br>
-
-**Development & Infrastructure**
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,cpp" />
-![WSL2](https://img.shields.io/badge/WSL2-Robotics_Dev-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sara-Esm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-Esm&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="150"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=120&section=footer&text=Open+to+Robotics+Opportunities+in+Vancouver&fontSize=16&fontColor=8b949e&fontAlignY=65"/>
+<img src="https://img.shields.io/badge/WSL2-Robotics_Dev-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 
 </div>

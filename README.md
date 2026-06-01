@@ -21,13 +21,10 @@
 
 ## 🤖 About Me
 
-Robotics Software Engineer bridging **control theory** and **modern robotics software** — from published academic research to working autonomous systems.
-
-- 🎓 **Electrical & Control Engineer** with published research in SMC & Fuzzy Logic
-- 🤖 Building **autonomous mobile robots** with ROS 2, Nav2, and Gazebo
+Robotics Software Engineer bridging **control theory** and **modern robotics software**
+- 🤖 **autonomous mobile robots** with ROS 2, Nav2, and Gazebo
 - 👁️ Designing **perception systems** with OpenCV, ArUco, and computer vision
 - 🧮 Implementing **nonlinear control** (SMC, Fuzzy Logic) on real robotic systems
-- 📍 Based in **Vancouver, BC** — open to local robotics opportunities
 
 <br clear="right"/>
 
@@ -69,41 +66,6 @@ Human drives freely via teleop; when a **colored fiducial marker** is detected, 
 ✅ SMC visual control  ✅ Active braking
 ```
 **Stack:** SMC · OpenCV · ROS 2 · Gazebo
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🦾 Adaptive Robot Control — Research → Code
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Sara-Esm/adaptive-robot-control-fuzzy-smc)
-![SMC](https://img.shields.io/badge/SMC-purple?style=flat)
-![Fuzzy](https://img.shields.io/badge/Fuzzy_Logic-orange?style=flat)
-![Published](https://img.shields.io/badge/📄_Published_Research-green?style=flat)
-
-Implementation of **published peer-reviewed research** — adaptive control of a flexible robotic arm using Sliding Mode Control and Fuzzy Logic.
-
-```
-📄 Peer-reviewed publication
-🦾 Flexible robotic arm control
-```
-**Stack:** MATLAB · Simulink · SMC · Fuzzy Logic
-
-</td>
-<td width="50%">
-
-### 🎯 AprilTag Autonomous Docking
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Sara-Esm/apriltag_autonomous_docking)
-![ROS2](https://img.shields.io/badge/ROS2-blue?style=flat)
-![AprilTag](https://img.shields.io/badge/AprilTag-Detection-yellow?style=flat)
-
-ROS 2 mobile robot that autonomously detects **AprilTag markers** and executes precision docking — directly applicable to real-world charging and docking systems.
-
-```
-🎯 Precision alignment
-🔋 Autonomous docking behavior
-```
-**Stack:** ROS 2 · Gazebo · AprilTag · Python
 
 </td>
 </tr>

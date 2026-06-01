@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=ROS+2+%7C+Autonomous+Navigation;Sliding+Mode+Control+%7C+Visual+Servoing;Robot+Perception+%7C+Computer+Vision;Gazebo+Simulation+%7C+Nav2;AI+%2B+Robotics+Integration" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Sara%20Esmaeili&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Robotics%20Software%20Engineer%20%7C%20Control%20Systems%20%7C%20Autonomous%20Robots&descSize=16&descAlignY=58&descColor=8b949e"/>
 
 <br>
 

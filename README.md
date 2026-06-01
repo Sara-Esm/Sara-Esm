@@ -23,13 +23,11 @@
 <tr>
 <td>
 
-Robotics Software Engineer bridging **control theory** and **modern robotics software** — from published academic research to working autonomous systems.
+Robotics Software Engineer bridging **control theory** and **modern robotics software**
 
 - 🤖 Building **autonomous mobile robots** with ROS 2, Nav2 and Gazebo
-- 🧮 Implementing **nonlinear control** (SMC, Fuzzy Logic) on robotic systems
+- 🧮 Implementing **nonlinear control** on robotic systems
 - 👁️ Designing **perception systems** with OpenCV, ArUco and computer vision
-- 🎓 **Published research** in Sliding Mode Control and Fuzzy Logic
-- 📍 Based in **Vancouver, BC** — open to local robotics opportunities
 
 </td>
 <td>

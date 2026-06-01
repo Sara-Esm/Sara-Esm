@@ -10,8 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sara_Esmaeili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-esmaeili-)
 [![GitHub](https://img.shields.io/badge/GitHub-Sara--Esm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara-Esm)
-[![Email](https://img.shields.io/badge/Email-zesmaeili85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zesmaeili85@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Vancouver-BC,_Canada-2ea44f?style=for-the-badge)](https://github.com/Sara-Esm)
 
 </div>
 

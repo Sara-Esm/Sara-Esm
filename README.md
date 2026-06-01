@@ -54,21 +54,6 @@ I build intelligent robotic systems that bridge control theory and software engi
 
 ---
 
-### 🦾 [Adaptive Robot Control — Fuzzy Logic + SMC](https://github.com/Sara-Esm/adaptive-robot-control-fuzzy-smc)
-> From published research to implementation: adaptive control of a flexible robotic arm using Sliding Mode Control and Fuzzy Logic.
-
-- **Based on:** peer-reviewed published research
-- **Stack:** MATLAB · Simulink · SMC · Fuzzy Logic
-
----
-
-### 🚗 [AprilTag Autonomous Docking](https://github.com/Sara-Esm/apriltag_autonomous_docking)
-> ROS 2 mobile robot that autonomously detects AprilTag markers and docks with precision alignment.
-
-- **Stack:** ROS 2 · Gazebo · AprilTag · Python
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
